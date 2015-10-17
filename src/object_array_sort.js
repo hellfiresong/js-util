@@ -24,4 +24,4 @@ function by(name){
 }
 
 //Test case
-console.log([{'name': 'FengLiu Cheng'},{'name': 'Cheng Liufeng'}, {'name': 'Liufeng Cheng'}].sort(by('name)));
+console.log([{'name': 'FengLiu Cheng'},{'name': 'Cheng Liufeng'}, {'name': 'Liufeng Cheng'}].sort(by('name')));
